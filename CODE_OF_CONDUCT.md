@@ -41,23 +41,25 @@ behavior and are expected to take appropriate and fair corrective action in
 response to any instances of unacceptable behavior.
 
 Members of the official team are required to disclose any interests that may
-conflict against the interests of the privacytools.io website and/or community.
+come into conflict with the mission of the PrivacyTools website or be at the
+disbenefit of the community.
 
-If a team member has a private interest (for example, a job at a company which
-is listed or wants to be listed on the privacytools website), then it is seen
-as their duty to disclose this interest.
+If a team member has a private interest (e.g., a job at a company or
+organization which is either listed or wants to be listed), then it is that
+team member's duty to disclose their affiliation.
 
-To determine whether something is a conflict of interest or not, the following
-question will be asked at a case by case basis: Does the team members interest
-create an incentive to act (consciously  or sub-consciously) against the best
-interests of the Privacytools.io website and/or community.
+To determine whether something is a conflict of interest, we consider whether
+or not the team member's contributions(s) (e.g., proposed changes to the site,
+comments, etc.) are within the interest of PrivacyTools or the community. Each
+case will be looked at and discussed, on an individual basis.
 
-In short, when a team member has a conflict of interest, they may no longer
-vote about the subject they are conflicted about
+If it is then decided by the other team members that there is a conflict of
+interest, the team member in question shall forfeit their right to vote on
+issues regarding their affiliation.
 
-The team member is, however, allowed to join a discussion about the conflicted
-subject by voicing his own opinion and thoughts, but only if  they declare
-their conflict of interest with every message, post, call, etc.
+The team member in question is however, allowed to put forward argument about
+their affiliation and that shall be considered as long as they make it clear to
+disclose their connection to the company or organization in question.
 
 Project maintainers have the right and responsibility to remove, edit, or
 reject comments, commits, code, wiki edits, issues, and other contributions
